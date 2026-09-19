@@ -1,0 +1,4 @@
+component,mean_share_of_extra_tokens,ci_lo,ci_hi
+needed to reach the answer,0.3336616617741743,0.15537521008033042,0.5313924196898755
+post-answer verification / new reasoning,0.3850973537183285,0.25041527740278513,0.5083218117598911
+repetition / restatement / doubt / wrong candidates,0.2812409845074972,0.1675778999452147,0.4029276449618353
